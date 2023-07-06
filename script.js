@@ -10,15 +10,15 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Emiway Bantai - Beta Karta Rap", filePath: "1.mp3", coverPath: "1.jpg"},
+    {songName: "Emiway Bantai-Beta Karta Rap", filePath: "1.mp3", coverPath: "1.jpg"},
     {songName: "EMIWAY - COMPANY", filePath: "2.mp3", coverPath: "2.jpg"},
-    {songName: "EMIWAY - KHATAM HUE WAANDE (Prod.YOKI)", filePath: "3.mp3", coverPath: "3.jpg"},
-    {songName: "EMIWAY BANTAI X CHRIS GAYLE (UNIVERSEBOSS)", filePath: "4.mp3", coverPath: "4.jpg"},
-    {songName: "Celina Sharma _ Emiway Bantai - Jhootha", filePath: "5.mp3", coverPath: "5.jpg"},
+    {songName: "EMIWAY-KHATAM HUE WAANDE", filePath: "3.mp3", coverPath: "3.jpg"},
+    {songName: "EMIWAY BANTAI X CHRIS GAYLE", filePath: "4.mp3", coverPath: "4.jpg"},
+    {songName: "CelinaSharma_EmiwayBantai-Jhootha", filePath: "5.mp3", coverPath: "5.jpg"},
     {songName: "EMIWAY - GUESS", filePath: "6.mp3", coverPath: "6.jpg"},
     {songName: "Keede - Dino James", filePath: "7.mp3", coverPath: "7.jpg"},
-    {songName: "Nidarr - Dino James [Official Music]", filePath: "8.mp3", coverPath: "8.jpg"},
-    {songName: "Unstoppable- Dino James", filePath: "9.mp3", coverPath: "9.jpg"},
+    {songName: "Nidarr - Dino James", filePath: "8.mp3", coverPath: "8.jpg"},
+    {songName: "Unstoppable-Dino James", filePath: "9.mp3", coverPath: "9.jpg"},
     {songName: "EMIWAY - CHHOD DALA", filePath: "10.mp3", coverPath: "10.jpg"},
 ]
 
